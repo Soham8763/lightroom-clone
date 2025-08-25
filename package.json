@@ -1,0 +1,39 @@
+{
+  "name": "lightroom-clone",
+  "version": "1.0.0",
+  "description": "Professional image editing application - Adobe Lightroom clone built with MERN stack",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "build": "cd client && npm run build",
+    "test": "cd client && npm test"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "image-editing",
+    "lightroom",
+    "photography",
+    "mern-stack",
+    "webgl",
+    "canvas"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.1"
+  }
+}
