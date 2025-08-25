@@ -290,32 +290,6 @@ const exportFormats = [
 - Multiple position presets
 - Batch watermark application
 
-## 📤 Export Your Masterpieces
-
-Once you've perfected your edits, export your images in professional quality with our comprehensive export system.
-
-<div align="center">
-
-  ### Export Panel
-  <img src="./assets/export-panel.png" alt="Export Settings Panel" width="600"/>
-  <p><em>Professional export settings with format, quality, and dimension controls</em></p>
-
-  ### Format Selection
-  <img src="./assets/export-formats.png" alt="Export Format Options" width="500"/>
-  <p><em>Support for JPEG, PNG, TIFF, and WebP formats with quality settings</em></p>
-
-  ### Batch Export
-  <img src="./assets/batch-export.png" alt="Batch Export Progress" width="700"/>
-  <p><em>Export multiple edited photos simultaneously with progress tracking</em></p>
-
-  ### Download Ready
-  <img src="./assets/export-complete.png" alt="Export Complete Download" width="600"/>
-  <p><em>Download your professionally edited photos instantly</em></p>
-
-</div>
-
----
-
 ## 🚀 Getting Started
 
 ### **Prerequisites**
@@ -667,19 +641,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **GitHub Issues**: [Report bugs and request features](https://github.com/your-username/lightroom-clone/issues)
-- **Documentation**: [Comprehensive documentation](https://your-docs-url.com)
-- **Email**: your-email@example.com
+- **GitHub Issues**: [Report bugs and request features](https://github.com/Soham8763/lightroom-clone/issues)
+- **Email**: soham7857@example.com
 - **Discord**: Join our development community
 
 ---
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/lightroom-clone?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/lightroom-clone?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/lightroom-clone)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/lightroom-clone)
+![GitHub stars](https://img.shields.io/github/stars/Soham8763/lightroom-clone?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Soham8763/lightroom-clone?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Soham8763/lightroom-clone)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Soham8763/lightroom-clone)
 
 ---
 
@@ -691,5 +664,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 ---
-
-*Last updated: August 2025*
