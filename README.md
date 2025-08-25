@@ -9,10 +9,6 @@ A comprehensive, professional-grade photo editing application built with the MER
 ![Node.js](https://img.shields.io/badge/Node.js-18.0.0-green.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0.0-green.svg)
 
-## 🚀 Live Demo
-
-🔗 **[Try the Live Demo](your-deployment-url-here)**
-
 ## 📸 Photo Import & Selection
 
 Experience seamless photo importing with our intuitive drag-and-drop interface. Select multiple photos from your local device and start editing immediately.
@@ -55,7 +51,6 @@ Explore the comprehensive editing capabilities of our Lightroom clone through th
 
   ### Crop & Transform Tools
   <img src="./assets/crop-tool.png" alt="Interactive Crop Tool" width="400"/>
-  <img src="./assets/rotation-flip.png" alt="Rotation and Flip Controls" width="400"/>
   <p><em>Precise cropping with aspect ratios, rotation, and flip controls</em></p>
 
   ### Light Adjustments
@@ -70,12 +65,7 @@ Explore the comprehensive editing capabilities of our Lightroom clone through th
 
   ### Creative Effects
   <img src="./assets/effects-panel.png" alt="Effects Control Panel" width="400"/>
-  <img src="./assets/vignette-grain.png" alt="Vignette and Grain Effects" width="400"/>
   <p><em>Professional effects including vignette, grain, clarity, and texture</em></p>
-
-  ### Real-time Preview
-  <img src="./assets/before-after.png" alt="Before and After Comparison" width="800"/>
-  <p><em>Side-by-side comparison showing original vs edited results</em></p>
 
 </div>
 
