@@ -1,0 +1,38 @@
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependencies
+node_modules/
+
+# Build outputs
+/build
+/dist
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Upload directories (except the directory itself)
+/server/uploads/*
+!/server/uploads/.gitkeep
+/server/uploads/exports/*
+!/server/uploads/exports/.gitkeep
+/server/uploads/previews/*
+!/server/uploads/previews/.gitkeep
+/server/uploads/thumbnails/*
+!/server/uploads/thumbnails/.gitkeep
