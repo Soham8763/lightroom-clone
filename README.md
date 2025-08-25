@@ -643,16 +643,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub Issues**: [Report bugs and request features](https://github.com/Soham8763/lightroom-clone/issues)
 - **Email**: soham7857@example.com
-- **Discord**: Join our development community
-
----
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/Soham8763/lightroom-clone?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Soham8763/lightroom-clone?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Soham8763/lightroom-clone)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Soham8763/lightroom-clone)
 
 ---
 
